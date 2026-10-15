@@ -1,6 +1,6 @@
 # Product/Project Management Portfolio
 
-Welcome to my **Product & Project Management Portfolio**.
+Welcome to my **Product/Project Management Portfolio**.
 
 I am a **Computer Science Graduate** passionate about bridging software engineering, product strategy, and project execution. My technical foundation enables me to deeply understand product architecture, engineering constraints, and data flows, while my drive for **Product Management**, **Project Management**, and **Product Operations** empowers me to transform unstructured problem spaces into scalable, user-centered product solutions.
 
