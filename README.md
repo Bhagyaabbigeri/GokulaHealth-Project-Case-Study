@@ -1,4 +1,4 @@
-# Product & Project Management Portfolio
+# Product/Project Management Portfolio
 
 Welcome to my **Product & Project Management Portfolio**.
 
